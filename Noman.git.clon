@@ -1,0 +1,79 @@
+Skip to content
+Navigation Menu
+Nomankhan565
+/
+Noman-albast
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Comparing changes
+Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also  or learn more about diff comparisons.
+ 
+...
+ 
+There isn’t anything to compare.
+main and Nomankhan565-patch-1 are entirely different commit histories.
+
+ Showing  with 35 additions and 0 deletions.
+ 33 changes: 33 additions & 0 deletions33  
+.gitignore
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,33 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+ 2 changes: 2 additions & 0 deletions2  
+README.md
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,2 @@
+# Noman-albasti
+is:open is:issue author:Nomankhan565 archived:false sort:comments-
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+Comparing main...Nomankhan565-patch-1 · Nomankhan565/Noman-albast
